@@ -3,13 +3,6 @@
 
 '''Scoring.py: Scoring a Firing Range.'''
 
-__author__ = "Gurpreet Singh"
-__copyright__ = "Copyright 2020"
-
-__version__ = "1.0"
-__email__ = "gurpreet.s.kairon@gmail.com"
-__status__ = "Academic"
-
 # import standard libraries
 from skimage.measure import compare_ssim
 import cv2
